@@ -1,0 +1,9 @@
+References:
+https://docs.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-3.1&tabs=windows
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-3.1&tabs=visual-studio
+
+
+Commands
+In Nuget package console
+Add-Migration InitialCreate
+Update-Database
